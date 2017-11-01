@@ -1,0 +1,114 @@
+-<view class="page">
+    <view class="page__hd">
+        <view class="page__title">传说地下城攻略</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">艾肯传说地下城攻略</view>
+                    <view class="weui-article__p">DNF新传说副本艾肯遗落的神殿已经开启，大家清理主线任务之后即可挑战副本，下面为大家带来艾肯副本打法攻略。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/1.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">入场介绍</view>
+                    <view class="weui-article__p">入场材料:5个诞生之芽/5个时空石
+
+                                  地下城产出:90级传说装备(不含武器)
+
+                                  消耗疲劳值:8点疲劳值/次
+
+                                  复活限制:3个复活币/次
+
+                                  副本限制:单人副本(无法组队)
+
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/2.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">-斗气系统-</view>
+                    
+                               只在艾肯副本增加斗气系统
+
+                              击杀怪物聚集斗气
+
+                              获取斗气时增加左侧的等级评分，SSS时可以使用斗气
+
+                              斗气开启时触发霸体，攻击时附加伤害，Z技能追加攻击，技能冷却-15%
+
+                              斗气开启期间击杀怪物可以延长
+
+                              超过指定时间解除
+
+                              此外艾肯的精英/领主怪物也会使用斗气
+
+                    
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">副本装备</view>
+                    <view class="weui-article__p">
+*新增90级任务传说斗气装备
+
+-装备-
+
+*每个类型防具5部位，首饰3部位，特殊装备3部位(武器除外)
+
+*随即赋予二种属性
+
+*装备分四种品质，每品质都会有前缀
+
+D级:斗:斗气装备
+
+C级:战:战争之斗气装备
+
+B级:狂:狂暴之斗气装备
+
+A级:灭:寂灭之斗气装备
+
+*此外根据装备品质新增星星标记
+
+*根据品质决定赋予属性
+
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/4.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">装备套装属性</view>
+                    <view class="weui-article__p">可以选择3套至6套属性
+
+但只适用1套属性
+
+赋予套装属性的传说装备左上角会增加一个s标志
+
+套装属性的种类和属性均会有上限，即:如果你单条属性选择的属性过高，其选择的种类的个数就会降低。单条属性选择的属性较低，可选择的属性种类个数就多(最多选4个)
+
+例:选择3套后在选择5套时三套属性消失只留下5套效果
+
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/5.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">斗气改造机</view>
+                    <view class="weui-article__p">
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/6.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                </view>
+                
+            </view>
+        </view>
+    </view>
+</view>

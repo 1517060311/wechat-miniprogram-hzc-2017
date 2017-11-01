@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/comp/scroll",
+    "pages/form/form",
+    "pages/example/article/article",
+    "pages/example/qqweq/qqweq",
+    "pages/fm/fm"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#CC0000",
+    "navigationBarTitleText": "官喆林",
+    "navigationBarTextStyle": "while"
+  },
+  "tabBar": {
+    "color": "#33ffff",
+    "backgroundColor": "#CC0000",
+   
+    "list": [
+      {
+        "selectedIconPath": "pages/image/14.png",
+        "iconPath": "pages/image/13.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/comp/scroll",
+        "selectedIconPath": "pages/image/14.png",
+        "iconPath": "pages/image/13.png",
+        "text": "职业介绍"
+      },
+      {
+        "pagePath": "pages/form/form",
+        "selectedIconPath": "pages/image/14.png",
+        "iconPath": "pages/image/13.png",
+        "text": "更多"
+      }
+    ]
+  }
+}
